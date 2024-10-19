@@ -1,1 +1,1 @@
-# ethan-portfolio-starter
+# personal-portfolio
